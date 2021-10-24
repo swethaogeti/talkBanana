@@ -13,7 +13,6 @@ var serverURL = "https://api.funtranslations.com/translate/minion.json";
 
 
 function errorHandler() {
-  //  console.log("error occured" + error);
     alert("something went wrong! Try again after sometime.");
   
 }
