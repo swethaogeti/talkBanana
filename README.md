@@ -1,6 +1,6 @@
 # talk-banana
 
-talkBanana is a translation app, it will translate your text into banana language.It is the language of minions.
+talkBanana is a fun translation app, it will translate your text into banana language.It is the language of minions.
 
 Teck Stack:\
 1.HTML\
