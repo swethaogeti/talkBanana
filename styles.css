@@ -7,7 +7,14 @@ body {
     background-color: #03327e;
   
 }
+#github-link {
+    color: black;
+    font-size: 4rem;
+    position: absolute;
+    right: 20px;
+    top: 5px;
 
+}
 
 :root {
     --primary-color: #ffe135;
